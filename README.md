@@ -4,10 +4,7 @@ Projeto buger eats - Cypress
 
 
 ## Descrição
-este foi meu primeiro projeto a ser desenvolvido utilizando Cypress, basicamente consiste em realizar o teste automatizado com fluxos positivos 
-e alguns fluxos negativos em uma aplicação de cadastro de entregadores onde esta sendo buscado e inseridos os campos de cadastro, 
-realizando o cadastro e fazendo a validação.
-este projeto não utiliza o padrão page objects.
+este foi meu primeiro projeto a ser desenvolvido utilizando Cypress, basicamente consiste em realizar o teste automatizado e2e em uma aplicação de cadastro de entregadores onde esta sendo buscado realizado o cadastro do entregador.
 
 ## ferramentas
 <ul>
